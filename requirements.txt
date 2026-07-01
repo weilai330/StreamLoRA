@@ -1,0 +1,10 @@
+torch
+transformers
+accelerate
+diffusers
+peft
+safetensors
+pillow
+numpy
+tqdm
+pyyaml
